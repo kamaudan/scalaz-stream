@@ -6,6 +6,7 @@ scalaz-stream
 [![scaladoc](http://javadoc-badge.appspot.com/org.scalaz.stream/scalaz-stream_2.11.svg?label=scaladoc)](http://javadoc-badge.appspot.com/org.scalaz.stream/scalaz-stream_2.11)
 
 ### Where to get it ###
+Scalaz stream were deprecated at sometime past 
 
 To get the latest version of the library, add the following to your SBT build:
 
